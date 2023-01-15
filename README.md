@@ -1,0 +1,1 @@
+This is a responsive web application to host a University portal
